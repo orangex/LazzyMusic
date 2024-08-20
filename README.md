@@ -63,16 +63,14 @@ Android 暂未上架应用商店，可以直接（在手机上）通过下面的
 ## 截图展示
 
 服务端除了托盘图标和菜单，目前没有 GUI，以下为客户端部分界面展示。
+<p float="left">
+<img src="https://github.com/orangex/LazzyMusic/blob/main/Untitled.png" alt="Description" width="300"/>
+<img src="https://github.com/orangex/LazzyMusic/blob/main/Untitled%201.png" alt="Description" width="300"/>
+<img src="https://github.com/orangex/LazzyMusic/blob/main/Untitled%202.png" alt="Description" width="300"/>
+<img src="https://github.com/orangex/LazzyMusic/blob/main/Untitled%203.png" alt="Description" width="300"/>
+<img src="https://github.com/orangex/LazzyMusic/blob/main/Untitled%204.png" alt="Description" width="300"/>
+</p>
 
-![Untitled](Lazzy%20Music%2078c226b4e17b42eeace26323e18f95dd/Untitled.png)
-
-![Untitled](Lazzy%20Music%2078c226b4e17b42eeace26323e18f95dd/Untitled%201.png)
-
-![Untitled](Lazzy%20Music%2078c226b4e17b42eeace26323e18f95dd/Untitled%202.png)
-
-![Untitled](Lazzy%20Music%2078c226b4e17b42eeace26323e18f95dd/Untitled%203.png)
-
-![Untitled](Lazzy%20Music%2078c226b4e17b42eeace26323e18f95dd/Untitled%204.png)
 
 ## Q&A
 

@@ -3,32 +3,6 @@
 
 正如其名，我折腾是想大家不用折腾，Lazzy Music 是一个自带客户端的多平台的本地音乐流媒体服务，希望能给你一个涵盖音乐获取、管理、播放的无缝优质体验。
 
-## 快速开始 :rocket: 
-
-在你的 PC 上安装 Lazzy Music 服务端，在手机上安装客户端，登录同一个账号，添加音乐，等待片刻就可以在客户端上尽情享用了。
-
-### 服务端
-
-前往这里下载最新版本 [https://github.com/orangex/LazzyMusic-Server/releases](https://github.com/orangex/LazzyMusic-Server/releases) ，安装运行后托盘中（Mac 为屏幕右上角状态栏，Windows 为右下角托盘）会出现 LazzyMusic 的图标，右键登录即可。
-
-更新方式：Windows 下载新的版本后直接将旧版本的程序删除然后安装新版本运行即可，Mac 常规安装新版即会覆盖更新。均需先退出程序。
-
-### 客户端
-
-iOS 已上架 TestFlight，[https://testflight.apple.com/join/5HaBxGxZ](https://testflight.apple.com/join/5HaBxGxZ)，当然你可以通过下面的链接自行签名安装。
-
-Android 暂未上架应用商店，可以直接（在手机上）通过下面的链接下载并安装。
-
-[https://github.com/orangex/LazzyMusic/releases](https://github.com/orangex/LazzyMusic/releases)，即为该仓库的 Release 。
-
-### 添加第一首音乐
-
-服务端右键托盘图标→打开媒体库文件夹，将你的音乐文件扔到里面，你也可以在客户端上完成上述的步骤。
-
-等待片刻，在客户端主页下拉刷新就会看见音乐在逐渐出现在列表中了。
-
-你也可以订阅外部的歌单，目前仅支持 Bilibili 收藏夹，详见 Q&A。
-
 ## 功能特性 :sparkles: 
 
 - 支持视频形式的音乐：音乐不只是音频，将你最爱的现场视频 、MV 等珍藏起来吧！
@@ -59,6 +33,31 @@ Android 暂未上架应用商店，可以直接（在手机上）通过下面的
 - 外网访问：一键尝试开启端口转发以支持外网访问，同时你可以自定义自行设置好转发的端口。
 - 音乐库(包括元信息)的一切均保存在您的设备上，无广无数据外泄，没有下架没有变灰，迁移友好。
 
+## 快速开始 :rocket: 
+
+在你的 PC 上安装 Lazzy Music 服务端，在手机上安装客户端，登录同一个账号，添加音乐，等待片刻就可以在客户端上尽情享用了。
+
+### 服务端
+
+前往这里下载最新版本 [https://github.com/orangex/LazzyMusic-Server/releases](https://github.com/orangex/LazzyMusic-Server/releases) ，安装运行后托盘中（Mac 为屏幕右上角状态栏，Windows 为右下角托盘）会出现 LazzyMusic 的图标，右键登录即可。
+
+更新方式：Windows 下载新的版本后直接将旧版本的程序删除然后安装新版本运行即可，Mac 常规安装新版即会覆盖更新。均需先退出程序。
+
+### 客户端
+
+iOS 已上架 TestFlight，[https://testflight.apple.com/join/5HaBxGxZ](https://testflight.apple.com/join/5HaBxGxZ)，当然你可以通过下面的链接自行签名安装。
+
+Android 暂未上架应用商店，可以直接（在手机上）通过下面的链接下载并安装。
+
+[https://github.com/orangex/LazzyMusic/releases](https://github.com/orangex/LazzyMusic/releases)，即为该仓库的 Release 。
+
+### 添加第一首音乐
+
+服务端右键托盘图标→打开媒体库文件夹，将你的音乐文件扔到里面，你也可以在客户端上完成上述的步骤。
+
+等待片刻，在客户端主页下拉刷新就会看见音乐在逐渐出现在列表中了。
+
+你也可以订阅外部的歌单，目前仅支持 Bilibili 收藏夹，详见 Q&A。
 ## 截图展示 :camera:
 
 服务端除了托盘图标和菜单，目前没有 GUI，以下为客户端部分界面展示。

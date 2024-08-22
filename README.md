@@ -42,7 +42,7 @@
 
 ### 服务端
 
-前往这里下载最新版本 [https://github.com/orangex/LazzyMusic-Server/releases](https://github.com/orangex/LazzyMusic-Server/releases) ，安装运行后托盘中（Mac 为屏幕右上角状态栏，Windows 为右下角托盘）会出现 LazzyMusic 的图标，右键登录即可。
+前往[这里](https://github.com/orangex/LazzyMusic-Server/releases)下载最新版本 ，安装运行后托盘中（Mac 为屏幕右上角状态栏，Windows 为右下角托盘）会出现 LazzyMusic 的图标，右键登录即可。
 
 更新方式：Windows 下载新的版本后直接将旧版本的程序删除然后安装新版本运行即可，Mac 常规安装新版即会覆盖更新。均需先退出程序。
 

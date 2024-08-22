@@ -36,31 +36,30 @@
 ## 快速开始 :rocket: 
 
  1. 在你的 PC 上安装 Lazzy Music 服务端，在手机上安装客户端，登录同一个账号
- 2. 添加音乐
- 3. 手动触发扫描或者等待定时扫描，
-这样就就可以在客户端刷新看到你的音乐库了。
+ 2. 将你的音乐文件扔到媒体库文件夹然后执行扫描
+这样就就可以在客户端刷新看到你的音乐库了。具体如下：
 
 ### 服务端
 
-前往[这里](https://github.com/orangex/LazzyMusic-Server/releases)下载最新版本 ，安装运行后托盘中（Mac 为屏幕右上角状态栏，Windows 为右下角托盘）会出现 LazzyMusic 的图标，右键登录即可。
+前往[这里](https://github.com/orangex/LazzyMusic-Server/releases)下载最新版本 ，安装运行后系统托盘中（Mac 为屏幕右上角状态栏）会出现 LazzyMusic 的图标，右键登录即可。
 
 更新方式：Windows 下载新的版本后直接将旧版本的程序删除然后安装新版本运行即可，Mac 常规安装新版即会覆盖更新。均需先退出程序。
 
 ### 客户端
 
-iOS 已上架 TestFlight，[https://testflight.apple.com/join/5HaBxGxZ](https://testflight.apple.com/join/5HaBxGxZ)，当然你可以通过下面的链接自行签名安装。
+iOS 已上架 [TestFlight](https://testflight.apple.com/join/5HaBxGxZ)，当然你可以通过下面的链接自行签名安装。
 
 Android 暂未上架应用商店，可以直接（在手机上）通过下面的链接下载并安装。
 
-[https://github.com/orangex/LazzyMusic/releases](https://github.com/orangex/LazzyMusic/releases)，即为该仓库的 Release 。
+[客户端最新安装包](https://github.com/orangex/LazzyMusic/releases)，该链接指向的就是该仓库的 Release 。
 
 ### 添加第一首音乐
 
-服务端右键托盘图标→打开媒体库文件夹，将你的音乐文件扔到里面，你也可以在客户端上完成上述的步骤。
+服务端右键托盘图标→打开媒体库文件夹，将你的音乐文件扔到里面，然后扫描仓库。（你也可以在客户端上完成上述的步骤）
 
-等待片刻，在客户端主页下拉刷新就会看见音乐在逐渐出现在列表中了。
+等待片刻，在客户端主页下拉刷新就会看见音乐在逐一出现在列表中了。
 
-你也可以订阅外部的歌单，目前仅支持 Bilibili 收藏夹，详见 Q&A。
+你也可以订阅外部的歌单，详见 Q&A。
 ## 截图展示 :camera:
 
 服务端除了托盘图标和菜单，目前没有 GUI，以下为客户端部分界面展示。

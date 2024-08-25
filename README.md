@@ -49,7 +49,7 @@
 
 iOS 已上架 [TestFlight](https://testflight.apple.com/join/5HaBxGxZ)，当然你可以通过下面的链接自行签名安装。
 
-Android 暂未上架应用商店，可以直接（在手机上）通过下面的链接下载并安装。
+Android 暂未上架应用商店，可以直接通过（在手机的浏览器上访问，最好别用微信内置浏览器）下面的链接下载安装。
 
 [客户端最新安装包](https://github.com/orangex/LazzyMusic/releases)，该链接指向的就是该仓库的 Release 。
 

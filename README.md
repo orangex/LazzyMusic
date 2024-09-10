@@ -93,6 +93,6 @@ Android 暂未上架应用商店，可以直接通过（在手机的浏览器上
 </p>
 
 
-## Q&A :question: 后续更多问题会考虑做成文档。
+## Q&A :question:
 
 见 [Wiki](https://github.com/orangex/LazzyMusic/wiki/Q&A)

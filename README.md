@@ -103,3 +103,6 @@ Android 暂未上架应用商店，可以直接通过（在手机的浏览器上
 ## Q&A :question:
 
 见 [Wiki](https://github.com/orangex/LazzyMusic/wiki/Q&A)
+
+<img src="https://github.com/orangex/LazzyMusic/blob/main/groupchat_wechat.jpg"  width="600"/>
+

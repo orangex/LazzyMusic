@@ -59,15 +59,16 @@
  
  等待一会，下拉刷新，就可以在客户端上看到你的音乐库了。具体如下：
 
-### 服务端
+### 安装服务端
 
-[Windows&Mac](https://github.com/orangex/LazzyMusic-Server/releases/latest) 安装运行后系统托盘中（Mac 为屏幕右上角状态栏）会出现 LazzyMusic 的图标，右键登录即可。
-[Docker]() 运行后，浏览器访问 [localhost:23333/login](localhost:2333/login) 登录。 默认情况下是 23333 端口，万一万一被占用了，访问有问题的话，可以找到容器日志的开始处查看实际端口号。（一般来说直接尝试 23334 也就够了）
+[Windows&Mac](https://github.com/orangex/LazzyMusic-Server/releases/latest) 。安装运行后系统托盘中（Mac 为屏幕右上角状态栏）会出现 LazzyMusic 的图标，右键登录即可。
+
+[Docker](https://github.com/orangex/LazzyMusic/wiki/Install(-%E5%AE%89%E8%A3%85-)#docker) 。 运行后，浏览器访问 [localhost:23333/login](http://localhost:23333/login) 登录。 默认情况下是 23333 端口，万一万一被占用了，访问有问题的话，可以找到容器日志的开始处查看实际端口号。（一般来说直接尝试 23334 也就够了）
 
 
 更新方式：Windows 下载新的版本后直接将旧版本的程序删除然后安装新版本运行即可，Mac 常规安装新版即会覆盖更新。均需先退出程序。
 
-### 客户端
+### 安装客户端
 
 iOS 已上架 [TestFlight](https://testflight.apple.com/join/5HaBxGxZ)，当然你可以通过下面的链接自行签名安装。
 

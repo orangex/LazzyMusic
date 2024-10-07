@@ -100,6 +100,8 @@ Android 暂未上架应用商店，可以直接通过（在手机的浏览器上
 <img src="https://github.com/orangex/LazzyMusic/blob/main/Untitled%202.png" alt="Description" width="300"/>
 <img src="https://github.com/orangex/LazzyMusic/blob/main/Untitled%203.png" alt="Description" width="300"/>
 <img src="https://github.com/orangex/LazzyMusic/blob/main/Untitled%204.png" alt="Description" width="300"/>
+<img src="https://i.imgur.com/WGEl1Jr.png" alt="Description" width="900"/>
+    
 </p>
 
 
